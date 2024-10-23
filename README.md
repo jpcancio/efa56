@@ -1,9 +1,11 @@
+???? ficheiro alterado localmente
+
 ####### FICHEIRO ALTERADO
 
 ISTO É O FICHEIRO DE APRESENTAÇÃO DO PROJECTO
 
-BLA 
-BLA 
+BLA
+BLA
 BLA
 
 WHISKAS SAQUETAS
